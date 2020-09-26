@@ -1,0 +1,175 @@
+*{
+	margin-left:0px;
+    margin-top:0px;
+    background-color: #708090;
+}
+.header
+{
+	border:20px solid black;
+}
+.header img
+{
+	top: 2px;
+	left:2px;
+	height: 100px;
+	position: relative;
+}
+.header table
+{
+	position: relative;
+	width:80%;
+	float:right;
+}
+.header td 
+{
+	top:10px;
+	position: relative;
+	padding: 30px 50px;
+	font-size: 20px;
+	text-decoration: none;
+}
+.header a
+{
+	position: relative;
+	text-decoration: none;
+	color: black;
+}
+.profile h1
+{
+	text-align: center;
+}
+.profile img
+{
+
+	width: 600px;
+	height: auto;
+}
+.profile_content pre
+{
+	font-size: 20px;
+}
+.profile_content h1
+{
+	text-align: center;
+}
+#one
+{
+	margin-left:20px; 
+	height: 350px;
+	width: 450px;
+}
+#two
+{
+	margin-left:20px; 
+	height:350px; 
+	width:450px;
+}
+#three
+{
+	height: 450px;
+	width:350;
+	margin-left: 20px;
+}
+#four
+{
+	margin-top: 20px;
+	height: 450px;
+	width:350;
+	margin-left: 50px;	
+}
+#five
+{
+	margin-top: 20px;
+	margin-left:50px; 
+	height:350px; 
+	width:450px;
+}
+#six
+{
+	margin-top: 20px;
+	height: 450px;
+	width:350;
+	margin-left: 20px;		
+}
+#seven
+{
+	margin-top: 20px;
+	margin-left:50px; 
+	height:450px; 
+	width:350px;	
+}
+#eight
+{
+	margin-top: 20px;
+	margin-left:20px; 
+	height:450px; 
+	width:350px;
+}
+#nine
+{
+	margin-top: 20px;
+	margin-left:20px; 
+	height:350px; 
+	width:450px;
+}
+#ten
+{
+	margin-top: 20px;
+	margin-left:40px; 
+	height:350px; 
+	width:450px;
+}
+#eleven
+{
+	margin-top: 20px;
+	margin-left:20px; 
+	height:450px; 
+	width:350px;
+}
+#tweleve
+{
+	margin-top: 20px;
+	margin-left:20px; 
+	height:350px; 
+	width:450px;
+}
+#thirteen
+{
+	margin-top: 20px;
+	margin-left: 40px;
+	height:450px;
+	width: 450px;
+}
+#fourteen
+{
+	margin-top: 20px;
+	margin-left:20px; 
+	height:450px; 
+	width:350px;
+}
+#fifteen
+{
+	margin-top: 20px;
+	margin-left:20px; 
+	height:450px; 
+	width:350px;
+}
+#sixteen
+{
+	margin-top: 20px;
+	margin-left:50px; 
+	height:450px; 
+	width:550px;
+}
+#seventeen
+{
+	margin-top: 20px;
+	margin-left:20px; 
+	height:450px; 
+	width:550px;
+}
+.profile hr
+{
+	height: 5px;
+	color: solid white;
+}

@@ -1,0 +1,40 @@
+*{
+	margin-left:0px;
+    margin-top:0px;
+    background-color:#708090;
+}
+.header
+{
+	border:20px solid black;
+}
+.header img
+{
+	top: 2px;
+	left:2px;
+	height: 100px;
+	position: relative;
+}
+.header table
+{
+	position: relative;
+	width:80%;
+	float:right;
+}
+.header td 
+{
+	top:10px;
+	position: relative;
+	padding: 30px 50px;
+	font-size: 20px;
+	text-decoration: none;
+}
+.header a
+{
+	position: relative;
+	text-decoration: none;
+	color: black;
+}
+#content
+{
+	font-size: 30px;
+}

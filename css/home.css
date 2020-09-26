@@ -1,0 +1,55 @@
+*{
+	margin-left:0px;
+    margin-top:0px;
+    background-color: #708090;
+}
+.header
+{
+	border:20px solid black;
+}
+.header img
+{
+	left:2px;
+	top: 2px;
+	height: 100px;
+	position: relative;
+}
+.header table
+{
+	position: relative;
+	width:80%;
+	float:right;
+}
+.header td 
+{
+	top:10px;
+	position: relative;
+	padding: 30px 50px;
+	font-size: 20px;
+	text-decoration: none;
+}
+.header a
+{
+	position: relative;
+	text-decoration: none;
+	color: black;
+}
+.content pre
+{
+	margin-top: 20px;
+	font-size: 20px;
+}
+#one
+{
+	margin-top: 20px;
+	margin-left:20px;
+	height:400px;
+	width:800px;
+}
+#t_1
+{
+	height: 400px;
+	width:800px;
+	position: relative;
+	float: left;
+}
